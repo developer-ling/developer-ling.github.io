@@ -1,5 +1,5 @@
 # Site settings
-title: CKR Blog
+title: 新手小码农
 SEOTitle: 新手小码农 | CKR Blog
 header-img: img/post-bg-desk.jpg
 #email: qiubaiying@gmail.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/developer-ling/developer-ling.github.io.git" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "努力养兔子的新手码农"
 sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
